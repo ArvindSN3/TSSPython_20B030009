@@ -1,2 +1,2 @@
 # TSSPython_20B030009
-TTS python 2021 Assignments
+TSS python 2021 Assignments
